@@ -1,6 +1,10 @@
 # Compiled class file
 *.class
-*/target/**
+
+.classpath
+.project
+.settings/
+target/
 
 
 .DS_Store
